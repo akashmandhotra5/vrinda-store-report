@@ -1,4 +1,6 @@
 # vrinda-store-report
+![image](https://github.com/user-attachments/assets/748ac5ee-714e-4a6b-8c66-88d31b3d05d8)
+
 
 This interactive sales dashboard provides a comprehensive analysis of Vrinda Store's sales performance for 2022. It offers key insights into sales trends, customer demographics, top-performing regions, order distribution, and sales channels.
 
